@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="BTN_FONT_SIZE">40sp</dimen>
+    <dimen name="POKER_SIZE">90sp</dimen>
+    <dimen name="RESULT_SIZE">50sp</dimen>
+    <dimen name="NOTE_SIZE">27sp</dimen>
+</resources>
